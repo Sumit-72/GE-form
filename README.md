@@ -29,5 +29,5 @@ The app allows users to enter an SSO ID and perform actions like **Add User**, *
 Make sure you have **Node.js (v16 or later)** and **npm** installed.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Sumit-72/GE-form.git
 cd ge-form-app
